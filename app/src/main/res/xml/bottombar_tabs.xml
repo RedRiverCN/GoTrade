@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_goods"
+        icon="@drawable/ic_favorites"
+        title="商品"
+        barColorWhenSelected="#FF5252" />
+
+    <tab
+        id="@+id/tab_my"
+        icon="@drawable/ic_friends"
+        title="我的"
+        barColorWhenSelected="#FF9800" />
+</tabs>

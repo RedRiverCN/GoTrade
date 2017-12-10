@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">GoTrade</string>
+
+    <!-- Strings related to login -->
+    <string name="login">登录</string>
+    <string name="Username">用户名/手机号</string>
+    <string name="go">确定</string>
+    <string name="forgot_your_password">随便看看</string>
+    <string name="Password">密码</string>
+    <string name="register">注册</string>
+    <string name="repeat_password">重复密码</string>
+    <string name="next">下一步</string>
+    <string name="phone">手机号</string>
+    <string name="nickname">昵称</string>
+    <string name="type">注册类型：2商家，3会员</string>
+    <string name="address">地址</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_publish">PublishActivity</string>
 </resources>
